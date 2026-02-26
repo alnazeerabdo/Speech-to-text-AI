@@ -1,0 +1,5 @@
+{
+  "name": "محول الصوت إلى نص",
+  "description": "تطبيق ويب حديث لتحويل الكلام إلى نص باللغتين العربية والإنجليزية.",
+  "requestFramePermissions": ["microphone"]
+}
